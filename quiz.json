@@ -1,0 +1,58 @@
+[
+    {
+        "title": "why we use <br> Elment",
+        "answer-1": "to make text bold",
+        "answer-2": "to make text italic",
+        "answer-3": "to add break line",
+        "answer-4": "to add hrozantil line",
+        "right_Answer": "to add break line"
+    },
+    {
+        "title": "IS <img> Elment Has Attribute  href",
+        "answer-1": "yes",
+        "answer-2": "no its for anchor tag < a >",
+        "answer-3": "all elment has this attribute ",
+        "answer-4": "answer 1 and 3 is right ",
+        "right_Answer": "no its for anchor tag < a >"
+    },
+    {
+        "title": "why we use <br> Elment",
+        "answer-1": "to make text bold",
+        "answer-2": "to make text italic",
+        "answer-3": "to add break line",
+        "answer-4": "to add hrozantil line",
+        "right_Answer": "to add break line"
+    },
+    {
+        "title": "how can we make elment text bold",
+        "answer-1": "putting it insid < b >  tag",
+        "answer-2": "putting it insid < strong > tag",
+        "answer-3": "customizing it with font-weight property in css",
+        "answer-4": "all answers is right",
+        "right_Answer": "all answers is right"
+    },
+    {
+        "title": "why we use <br> Elment",
+        "answer-1": "to make text bold",
+        "answer-2": "to make text italic",
+        "answer-3": "to add break line",
+        "answer-4": "to add hrozantil line",
+        "right_Answer": "to add break line"
+    },
+    {
+        "title": "why we use <br> Elment",
+        "answer-1": "to make text bold",
+        "answer-2": "to make text italic",
+        "answer-3": "to add break line",
+        "answer-4": "to add hrozantil line",
+        "right_Answer": "to add break line"
+    },
+    {
+        "title": "why we use <br> Elment",
+        "answer-1": "to make text bold",
+        "answer-2": "to make text italic",
+        "answer-3": "to add break line",
+        "answer-4": "to add hrozantil line",
+        "right_Answer": "to add break line"
+    }
+]
